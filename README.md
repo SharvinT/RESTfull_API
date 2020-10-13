@@ -1,2 +1,2 @@
 # RESTfull_API
-For Authenticate and for CRUD functionalities using Nodejs, express and Mongoose
+Authenticate Validate using CRUD functionalities which includes Nodejs, express and Mongoose
