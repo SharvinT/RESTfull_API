@@ -1,2 +1,2 @@
 # RESTfull_API
-Authenticate, Validate and Post data using CRUD functionalities which includes Nodejs, express and Mongoose
+This API provides Authenticating the User with JWT Token and then CRUD functionalities such as GET, POST, PATCH, PUT, DELETE using Node js, Express and MongoDB
